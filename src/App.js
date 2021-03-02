@@ -6,7 +6,9 @@ function App() {
     <div className="App">
       <h1>Google Maps App(git_dos)</h1>
       <h1>Google Maps App(git_dos)</h1>
+      <h1>Google Maps App(git_tres)</h1>
       <GoogleMap />
+      
     </div>
   );
 }
